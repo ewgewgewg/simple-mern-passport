@@ -20,6 +20,7 @@
     "spectre.css": "^0.5.0"
   },
   "scripts": {
+    "check": "check script",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
